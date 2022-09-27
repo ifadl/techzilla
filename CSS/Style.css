@@ -43,7 +43,7 @@ section{
     min-height: 100VH;
     display: flex;
     align-items: right;
-    background: url(../images/19362653.jpg) no-repeat;
+    background: url(./images/19362653.jpg) no-repeat;
     background-size: 1300px;
     background-position: right;
     background-attachment: fixed;
